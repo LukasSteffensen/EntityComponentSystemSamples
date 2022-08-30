@@ -2,6 +2,7 @@ using Unity.Entities;
 using Unity.Jobs;
 using Unity.Mathematics;
 using Unity.Transforms;
+// ReSharper disable All
 
 // This system updates all entities in the scene with both a RotationSpeed_ForEach and Rotation component.
 
